@@ -10,6 +10,6 @@
     </properties>
   <modules>
     <module>cinema-webapp</module>
-    <module>cinema-entitity</module>
+    <module>CinemaBO</module>
   </modules>
 </project>
